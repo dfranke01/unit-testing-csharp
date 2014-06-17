@@ -1,0 +1,34 @@
+code from the NUnit tutorial found at http://2manyprojects.net
+
+uses visual studio express 2010 and Nunit test runner.
+
+there are 3 projects within anagram.sln.
+    1) anagramMain - think of this as your "application", i.e. no 
+                     testing code will be included or referenced.
+
+    2) anagramTest - this project contains your test cases, and 
+                     test data. Has refs to anagramLib, and
+                     gtest.
+
+    3) anagramLib - this project contains the functions that are
+                    tested using gtest, and called from your 
+                    main() application.
+
+
+Instructions
+   
+    1) checkout code from repository
+    2) install nunit on your local machine.
+    3) open anagramMain.sln and build ( you may need to delete 
+       and replace the reference to nunit if you have a version 
+       different from what is in the repository ).
+    4) click run, this will open the nunit test runner, then
+       click open project, open anagramTest.dll, click Run. 
+       
+
+
+
+Data files
+   
+  wordlookup.txt is a list of dictionary words.
+    

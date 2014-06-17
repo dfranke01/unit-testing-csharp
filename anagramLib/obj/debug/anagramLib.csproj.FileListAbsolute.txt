@@ -1,0 +1,14 @@
+C:\Documents and Settings\usfradan\Desktop\Danny\practice_programs\c#\anagramMain\anagramLib\bin\Debug\anagramLib.dll
+C:\Documents and Settings\usfradan\Desktop\Danny\practice_programs\c#\anagramMain\anagramLib\bin\Debug\anagramLib.pdb
+C:\Documents and Settings\usfradan\Desktop\Danny\practice_programs\c#\anagramMain\anagramLib\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\usfradan\Desktop\Danny\practice_programs\c#\anagramMain\anagramLib\obj\Debug\anagramLib.dll
+C:\Documents and Settings\usfradan\Desktop\Danny\practice_programs\c#\anagramMain\anagramLib\obj\Debug\anagramLib.pdb
+C:\Users\usfradan\Dropbox\programming\c#\anagramMain\anagramLib\bin\Debug\anagramLib.dll
+C:\Users\usfradan\Dropbox\programming\c#\anagramMain\anagramLib\bin\Debug\anagramLib.pdb
+C:\Users\usfradan\Dropbox\programming\c#\anagramMain\anagramLib\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\usfradan\Dropbox\programming\c#\anagramMain\anagramLib\obj\Debug\anagramLib.dll
+C:\Users\usfradan\Dropbox\programming\c#\anagramMain\anagramLib\obj\Debug\anagramLib.pdb
+C:\Temp\anagramLib\bin\Debug\anagramLib.dll
+C:\Temp\anagramLib\bin\Debug\anagramLib.pdb
+C:\Temp\anagramLib\obj\Debug\anagramLib.dll
+C:\Temp\anagramLib\obj\Debug\anagramLib.pdb
